@@ -1,0 +1,4 @@
+total words: 1000000
+match: 1000000
+diff: 0
+match percent: 100.00%

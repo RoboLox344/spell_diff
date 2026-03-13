@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "nspell": "^2.1.5"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0"
+  }
+}
